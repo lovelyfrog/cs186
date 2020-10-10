@@ -1,3 +1,3 @@
 # Intro
 
-Implementations of projects in cs186: Introduction to Database Systems
+Implementations of projects in cs186: Introduction to Database Systems.
